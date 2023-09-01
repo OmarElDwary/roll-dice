@@ -1,6 +1,7 @@
 # Roll A Dice
 
 A new Flutter project.
+Learning Flutter from Maximillian and Following with his projects
 
 ## Getting Started
 
